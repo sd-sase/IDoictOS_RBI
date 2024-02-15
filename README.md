@@ -1,9 +1,8 @@
 # IDoictOS_RBI
 指纹浏览器一站式解决方案
-![Uploading c0e2be5ebb5e5d48a6db8b80fe8f15a.png…]()
 
+![c0e2be5ebb5e5d48a6db8b80fe8f15a](https://github.com/sd-sase/IDoictOS_RBI/assets/40165707/525ccfb0-962a-4b3e-aa53-dc3c7c2132d5)
 
-![Uploading c0e2be5ebb5e5d48a6db8b80fe8f15a.png…]()
 
 海禛云浏览器优势
 
